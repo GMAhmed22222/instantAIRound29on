@@ -1,0 +1,3 @@
+Making an iOS or Android application using python:
+-Kivy is an open-source Python library for developing applications. It's cross-platform, which means you can develop apps for iOS, Android, Windows, macOS, and Linux.
+-Kivy uses its own UI framework, so the user interface may look different from iOS apps, but it's an option for creating Python-based mobile applications.
